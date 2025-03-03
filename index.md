@@ -3,6 +3,13 @@
 <br >
 _This is in italics_
 # this is comment 
+
+***Hello , World ***
+<br>
+
+
+**ello ,*World * ! **
+
 Name | City
 -|-
 Rashmi|Pune
